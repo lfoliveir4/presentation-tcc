@@ -5,7 +5,6 @@ export default ({ children }) =>
     style={{
       width: '50vh',
       height: '110vh',
-      
     }}>
     <div
       style={{
